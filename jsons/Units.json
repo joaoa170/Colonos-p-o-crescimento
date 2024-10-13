@@ -3,13 +3,13 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"attackSound": "arrow",
+		"cost": 100,
+		"hurryCostModifier": 50
 		"uniques": ["Founds a new city <by consuming this unit>",
 			    "Never appears as a Barbarian unit",
 			    "Can move after attacking",
 			    "Uncapturable",
 			    "Requires at least [3] population",
 			    "[3] Sight",
-	        "cost": 150,
-		"hurryCostModifier": 50
 	}
 ]
