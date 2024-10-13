@@ -9,7 +9,7 @@
 			    "Uncapturable",
 			    "Requires at least [3] population",
 			    "[3] Sight",
-		            "cost": 150,
+	        "cost": 150,
 		"hurryCostModifier": 50
 	}
 ]
