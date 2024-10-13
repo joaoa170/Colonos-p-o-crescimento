@@ -8,6 +8,7 @@
 			    "Can move after attacking",
 			    "Can move immediately once bought",
 			    "Uncapturable",
+			    "Requires at least [2] population",
 			    "[5] Sight",
 		            "cost": 100 
 	}
