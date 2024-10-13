@@ -7,8 +7,9 @@
 			    "Never appears as a Barbarian unit",
 			    "Can move after attacking",
 			    "Uncapturable",
-			    "Requires at least [2] population",
-			    "[5] Sight",
-		            "cost": 100 
+			    "Requires at least [3] population",
+			    "[3] Sight",
+		            "cost": 150,
+		"hurryCostModifier": 50
 	}
 ]
