@@ -1,17 +1,14 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	{ "name": "Super Settler",
+		"unitType": "Civilian",
+		"movement": 5,
+		"attackSound": "arrow",
+		"uniques": ["Founds a new city",
+			    "Never appears as a Barbarian unit",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+			    "Uncapturable",
+			    "[5] Sight",
+		            "cost": 100 
 	}
 ]
