@@ -9,7 +9,7 @@
 			    "Never appears as a Barbarian unit",
 			    "Can move after attacking",
 			    "Uncapturable",
-			    "Requires at least [3] population",
-			    "[3] Sight"]
+			    "Requires at least [1] population",
+			    "[4] Sight"]
 			}
 ]
