@@ -3,7 +3,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"attackSound": "arrow",
-		"cost": 7,
+		"cost": 10,
 		"hurryCostModifier": 5
 		"uniques": ["Founds a new city <by consuming this unit>",
 			    "Never appears as a Barbarian unit",
